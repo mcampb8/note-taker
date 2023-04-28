@@ -25,8 +25,8 @@ I worked on this project by myself, but I used Stack Overflow and the class Repo
 [MIT](https://choosealicense.com/licenses/mit/)
 ---
 ## Images
-[GET Request](./get-request.png);
-[POST Request](./Post-request.png);
+[GET Request](./get-request.png)
+[POST Request](./Post-request.png)
 ## Questions
 [Email](mailto:michaelicampbell8@gmail.com)
 [Github](https://www.github.com/mcampb8)
