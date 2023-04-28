@@ -2,6 +2,7 @@ const express = require('express');
 const path = require('path');
 const noteData = require('./Develop/db/db.json');
 const uuid = require ('./Develop/public/assets/js/uuid');
+const indexjs = require('./Develop/public/assets/js/index');
 const note_id =0;
 const PORT = process.env.PORT || 3001;
 
