@@ -19,14 +19,14 @@ Make sure to run an npm i to install all of the necessary npm packages for this 
 This application can be used to get API data as well as add data to an API
 
 ## Credits
-I worked on this project by myself, but I used Stack Overflow and the class Repo for assistance with some of the coding issues.
+I worked on this project with some help from my tutor, David. I also used Stack Overflow and the class Repo for assistance with some of the coding issues.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ---
 ## Images
-[GET Request](./get-request.png)
-[POST Request](./Post-request.png)
+[Homepage](./note-taker-hp.png)
+[Notes page](./note-taker-notes.png)
 ## Questions
 [Email](mailto:michaelicampbell8@gmail.com)
 [Github](https://www.github.com/mcampb8)
